@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Node js is awesome"
+    },
+    {
+      "id": 2,
+      "title": "JavaScript is cool"
+    },
+    {
+      "id": 3,
+      "title": "Software development"
+    },
+    {
+      "id": 1725987616273,
+      "title": "express js "
+    },
+    {
+      "id": 1725987666821,
+      "title": "react"
+    },
+    {
+      "id": 1725988190365,
+      "title": "Node js"
+    },
+    {
+      "id": 1725988242974,
+      "title": "suresh"
+    }
+  ]
+}
